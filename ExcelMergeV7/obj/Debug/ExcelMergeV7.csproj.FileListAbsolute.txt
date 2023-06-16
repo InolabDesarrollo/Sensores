@@ -1,0 +1,1128 @@
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\ExcelMergeV7.exe.config
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\ExcelMergeV7.exe.manifest
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\ExcelMergeV7.application
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\ExcelMergeV7.exe
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\netstandard.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.AppContext.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Collections.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.ComponentModel.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Console.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Data.Common.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Globalization.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.IO.Compression.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.IO.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.IO.Pipes.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Linq.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Net.Http.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Net.Ping.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Net.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Net.Requests.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Net.Security.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Net.Sockets.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.ObjectModel.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Reflection.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Resources.Reader.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Resources.Writer.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Runtime.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Security.Claims.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Security.Principal.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Security.SecureString.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Text.Encoding.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Threading.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Threading.Thread.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Threading.Timer.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Xml.XPath.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\AutoUpdater.NET.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\SpreadsheetLight.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Buffers.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Drawing.Common.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.IO.Packaging.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Memory.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Text.Json.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.ValueTuple.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\EnvDTE.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\stdole.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\AutoUpdater.NET.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\SpreadsheetLight.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Buffers.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.IO.Packaging.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Memory.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Text.Json.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\System.ValueTuple.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.exe.config
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.Apertura.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.BigDGV.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.Start.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.Flagged.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.HumedadDGV.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.incertidumbre.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.IncertidumbreHumedad.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.Properties.Resources.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.Reporte.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.Reporte2.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.Selected.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.ShowIncertidumbre.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.uniformidad.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.uniformidadV1.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.BigDGV.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.Start.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.Flagged.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.HumedadDGV.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.incertidumbre.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.IncertidumbreHumedad.aa-ET.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.IncertidumbreHumedad.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.Reporte.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.Reporte2.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.Selected.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.ShowIncertidumbre.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.uniformidad.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.uniformidadV1.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.csproj.GenerateResource.cache
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.csproj.CoreCompileInputs.cache
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\es-MX\ExcelMergeV7.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\aa-ET\ExcelMergeV7.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.exe.manifest
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.application
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.csproj.CopyComplete
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.exe
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.pdb
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\ExcelMergeV7.pdb
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\es-MX\ExcelMergeV7.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\bin\Debug\aa-ET\ExcelMergeV7.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\v110\ExcelMergeV7\obj\Debug\ExcelMergeV7.csprojAssemblyReference.cache
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\ExcelMergeV7.exe.config
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\ExcelMergeV7.exe.manifest
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\ExcelMergeV7.application
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\ExcelMergeV7.exe
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\ExcelMergeV7.pdb
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\es-MX\ExcelMergeV7.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\aa-ET\ExcelMergeV7.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\netstandard.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.AppContext.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Collections.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.ComponentModel.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Console.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Data.Common.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Globalization.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.IO.Compression.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.IO.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.IO.Pipes.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Linq.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Net.Http.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Net.Ping.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Net.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Net.Requests.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Net.Security.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Net.Sockets.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.ObjectModel.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Reflection.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Resources.Reader.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Resources.Writer.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Runtime.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Security.Claims.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Security.Principal.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Security.SecureString.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Text.Encoding.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Threading.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Threading.Thread.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Threading.Timer.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Xml.XPath.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\AutoUpdater.NET.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\SpreadsheetLight.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Buffers.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Drawing.Common.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.IO.Packaging.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Memory.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Text.Json.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.ValueTuple.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\EnvDTE.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\stdole.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\AutoUpdater.NET.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\SpreadsheetLight.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Buffers.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.IO.Packaging.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Memory.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Text.Json.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\System.ValueTuple.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.exe.config
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.Apertura.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.BigDGV.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.Start.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.Flagged.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.HumedadDGV.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.incertidumbre.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.IncertidumbreHumedad.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.Properties.Resources.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.Reporte.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.Reporte2.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.Selected.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.ShowIncertidumbre.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.uniformidad.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.uniformidadV1.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.BigDGV.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.Start.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.Flagged.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.HumedadDGV.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.incertidumbre.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.IncertidumbreHumedad.aa-ET.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.IncertidumbreHumedad.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.Reporte.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.Reporte2.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.Selected.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.ShowIncertidumbre.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.uniformidad.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.uniformidadV1.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.csproj.GenerateResource.cache
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.csproj.CoreCompileInputs.cache
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\es-MX\ExcelMergeV7.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\aa-ET\ExcelMergeV7.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.exe.manifest
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.application
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.csproj.CopyComplete
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.exe
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V120\ExcelMergeV7\obj\Debug\ExcelMergeV7.pdb
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\ExcelMergeV7.exe.config
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\ExcelMergeV7.exe.manifest
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\ExcelMergeV7.application
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\ExcelMergeV7.exe
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\ExcelMergeV7.pdb
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\es-MX\ExcelMergeV7.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\aa-ET\ExcelMergeV7.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\netstandard.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.AppContext.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Collections.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.ComponentModel.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Console.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Data.Common.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Globalization.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.IO.Compression.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.IO.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.IO.Pipes.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Linq.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Net.Http.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Net.Ping.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Net.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Net.Requests.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Net.Security.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Net.Sockets.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.ObjectModel.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Reflection.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Resources.Reader.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Resources.Writer.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Runtime.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Security.Claims.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Security.Principal.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Security.SecureString.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Text.Encoding.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Threading.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Threading.Thread.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Threading.Timer.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Xml.XPath.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\AutoUpdater.NET.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\SpreadsheetLight.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Buffers.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Drawing.Common.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.IO.Packaging.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Memory.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Text.Json.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.ValueTuple.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\EnvDTE.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\stdole.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\AutoUpdater.NET.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\SpreadsheetLight.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Buffers.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.IO.Packaging.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Memory.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Text.Json.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\System.ValueTuple.xml
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.exe.config
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Apertura.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.BigDGV.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Start.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Flagged.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.HumedadDGV.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.incertidumbre.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.IncertidumbreHumedad.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Properties.Resources.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Reporte.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Reporte2.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Selected.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.ShowIncertidumbre.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.uniformidad.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.uniformidadV1.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.BigDGV.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Start.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Flagged.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.HumedadDGV.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.incertidumbre.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.IncertidumbreHumedad.aa-ET.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.IncertidumbreHumedad.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Reporte.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Reporte2.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Selected.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.ShowIncertidumbre.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.uniformidad.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.uniformidadV1.es-MX.resources
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.csproj.GenerateResource.cache
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.csproj.CoreCompileInputs.cache
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\es-MX\ExcelMergeV7.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\aa-ET\ExcelMergeV7.resources.dll
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.exe.manifest
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.application
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.csproj.CopyComplete
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.exe
+C:\Users\Ivann Arruel\OneDrive - Inolab\Documentos\VisualStudio\SERVICIO\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.pdb
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\ExcelMergeV7.exe.config
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\ExcelMergeV7.exe.manifest
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\ExcelMergeV7.application
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\ExcelMergeV7.exe
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\ExcelMergeV7.pdb
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\es-MX\ExcelMergeV7.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\aa-ET\ExcelMergeV7.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\netstandard.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.AppContext.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Collections.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.ComponentModel.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Console.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Data.Common.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Globalization.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.IO.Compression.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.IO.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.IO.Pipes.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Linq.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Net.Http.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Net.Ping.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Net.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Net.Requests.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Net.Security.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Net.Sockets.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.ObjectModel.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Reflection.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Resources.Reader.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Resources.Writer.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Runtime.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Security.Claims.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Security.Principal.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Security.SecureString.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Text.Encoding.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Threading.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Threading.Thread.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Threading.Timer.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Xml.XPath.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\AutoUpdater.NET.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\SpreadsheetLight.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Buffers.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Drawing.Common.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.IO.Packaging.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Memory.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Text.Json.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.ValueTuple.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\EnvDTE.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\stdole.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\AutoUpdater.NET.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\SpreadsheetLight.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Buffers.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.IO.Packaging.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Memory.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Text.Json.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\System.ValueTuple.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.csprojAssemblyReference.cache
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.exe.config
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Apertura.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.BigDGV.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Start.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Flagged.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.HumedadDGV.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.incertidumbre.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.IncertidumbreHumedad.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Properties.Resources.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Reporte.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Reporte2.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Selected.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.ShowIncertidumbre.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.uniformidad.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.uniformidadV1.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.BigDGV.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Start.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Flagged.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.HumedadDGV.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.incertidumbre.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.IncertidumbreHumedad.aa-ET.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.IncertidumbreHumedad.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Reporte.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Reporte2.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.Selected.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.ShowIncertidumbre.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.uniformidad.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.uniformidadV1.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.csproj.GenerateResource.cache
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.csproj.CoreCompileInputs.cache
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\es-MX\ExcelMergeV7.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\aa-ET\ExcelMergeV7.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.exe.manifest
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.application
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.csproj.CopyComplete
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.exe
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Debug\ExcelMergeV7.pdb
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\ExcelMergeV7.exe.config
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\ExcelMergeV7.exe.manifest
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\ExcelMergeV7.application
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\ExcelMergeV7.exe
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\ExcelMergeV7.pdb
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\es-MX\ExcelMergeV7.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\aa-ET\ExcelMergeV7.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\netstandard.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.AppContext.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Collections.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.ComponentModel.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Console.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Data.Common.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Globalization.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.IO.Compression.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.IO.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.IO.Pipes.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Linq.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Net.Http.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Net.Ping.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Net.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Net.Requests.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Net.Security.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Net.Sockets.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.ObjectModel.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Reflection.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Resources.Reader.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Resources.Writer.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Runtime.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Security.Claims.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Security.Principal.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Security.SecureString.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Text.Encoding.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Threading.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Threading.Thread.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Threading.Timer.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Xml.XPath.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\AutoUpdater.NET.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\SpreadsheetLight.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Buffers.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Drawing.Common.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.IO.Packaging.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Memory.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Text.Json.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.ValueTuple.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\EnvDTE.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\stdole.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\AutoUpdater.NET.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\SpreadsheetLight.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Buffers.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.IO.Packaging.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Memory.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Text.Json.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\System.ValueTuple.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.csprojAssemblyReference.cache
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.exe.config
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.Apertura.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.BigDGV.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.Start.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.Flagged.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.HumedadDGV.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.incertidumbre.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.IncertidumbreHumedad.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.Properties.Resources.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.Reporte.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.Reporte2.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.Selected.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.ShowIncertidumbre.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.uniformidad.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.uniformidadV1.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.BigDGV.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.Start.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.Flagged.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.HumedadDGV.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.incertidumbre.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.IncertidumbreHumedad.aa-ET.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.IncertidumbreHumedad.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.Reporte.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.Reporte2.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.Selected.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.ShowIncertidumbre.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.uniformidad.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.uniformidadV1.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.csproj.GenerateResource.cache
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.csproj.CoreCompileInputs.cache
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\es-MX\ExcelMergeV7.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\aa-ET\ExcelMergeV7.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.exe.manifest
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.application
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.csproj.CopyComplete
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.exe
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Debug\ExcelMergeV7.pdb

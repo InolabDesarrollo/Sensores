@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelMergeV7", "ExcelMergeV7\ExcelMergeV7.csproj", "{355A5D54-300D-493A-9014-BCB3914E75E5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_Sensores1", "Setup_Sensores1\Setup_Sensores1.vdproj", "{5ECEA9AE-61F2-4C1C-B4EE-91D8DDE41CC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{355A5D54-300D-493A-9014-BCB3914E75E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355A5D54-300D-493A-9014-BCB3914E75E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355A5D54-300D-493A-9014-BCB3914E75E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355A5D54-300D-493A-9014-BCB3914E75E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ECEA9AE-61F2-4C1C-B4EE-91D8DDE41CC8}.Debug|Any CPU.ActiveCfg = Debug
+		{5ECEA9AE-61F2-4C1C-B4EE-91D8DDE41CC8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50C9A67B-EED2-4AB5-9A4B-ABDCA230BA10}
+	EndGlobalSection
+EndGlobal

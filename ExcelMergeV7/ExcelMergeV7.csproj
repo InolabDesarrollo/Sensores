@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{355A5D54-300D-493A-9014-BCB3914E75E5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ExcelMergeV7</RootNamespace>
+    <AssemblyName>ExcelMergeV7</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>\\192.168.15.134\Public\Ejecutables\TestOut\T2\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>true</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>\\192.168.15.134\Public\Ejecutables\TestOut\T2\</UpdateUrl>
+    <PublisherName>INOLAB</PublisherName>
+    <SuiteName>SERVICIO</SuiteName>
+    <MinimumRequiredVersion>1.0.0.2</MinimumRequiredVersion>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>A183DB19A52F74C202D93998C38ECC921809A409</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ExcelMergeV7_1_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ICONO Inolab %281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoUpdater.NET, Version=1.7.0.0, Culture=neutral, PublicKeyToken=501435c91b35f4bc, processorArchitecture=MSIL">
+      <HintPath>..\packages\Autoupdater.NET.Official.1.7.0\lib\net45\AutoUpdater.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.13.1.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.2.13.1\lib\net46\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationFramework" />
+    <Reference Include="SpreadsheetLight, Version=3.5.0.0, Culture=neutral, PublicKeyToken=32fbb46dc1730c57, processorArchitecture=MSIL">
+      <HintPath>..\packages\SpreadsheetLight.3.5.0\lib\netstandard2.0\SpreadsheetLight.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing.Common, Version=4.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Drawing.Common.5.0.2\lib\net461\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.Primitives.4.3.0\lib\net46\System.IO.FileSystem.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Packaging, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Packaging.5.0.0\lib\net46\System.IO.Packaging.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Text.Encodings.Web, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.5.0.1\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=5.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.5.0.2\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Apertura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apertura.Designer.cs">
+      <DependentUpon>Apertura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BigDGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BigDGV.Designer.cs">
+      <DependentUpon>BigDGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetApertura.cs">
+      <DependentUpon>DataSetApertura.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetApertura.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetApertura.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="First.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="First.Designer.cs">
+      <DependentUpon>First.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Flagged.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Flagged.Designer.cs">
+      <DependentUpon>Flagged.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Functions.cs" />
+    <Compile Include="HumedadDGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HumedadDGV.Designer.cs">
+      <DependentUpon>HumedadDGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="incertidumbre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="incertidumbre.Designer.cs">
+      <DependentUpon>incertidumbre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IncertidumbreHumedad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IncertidumbreHumedad.Designer.cs">
+      <DependentUpon>IncertidumbreHumedad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte.Designer.cs">
+      <DependentUpon>Reporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte2.Designer.cs">
+      <DependentUpon>Reporte2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Selected.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Selected.Designer.cs">
+      <DependentUpon>Selected.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowIncertidumbre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowIncertidumbre.Designer.cs">
+      <DependentUpon>ShowIncertidumbre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="uniformidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uniformidad.Designer.cs">
+      <DependentUpon>uniformidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uniformidadV1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uniformidadV1.Designer.cs">
+      <DependentUpon>uniformidadV1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usr.cs" />
+    <EmbeddedResource Include="Apertura.resx">
+      <DependentUpon>Apertura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BigDGV.es-MX.resx">
+      <DependentUpon>BigDGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BigDGV.resx">
+      <DependentUpon>BigDGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="First.es-MX.resx">
+      <DependentUpon>First.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="First.resx">
+      <DependentUpon>First.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Flagged.es-MX.resx">
+      <DependentUpon>Flagged.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Flagged.resx">
+      <DependentUpon>Flagged.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HumedadDGV.es-MX.resx">
+      <DependentUpon>HumedadDGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HumedadDGV.resx">
+      <DependentUpon>HumedadDGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="incertidumbre.es-MX.resx">
+      <DependentUpon>incertidumbre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="incertidumbre.resx">
+      <DependentUpon>incertidumbre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IncertidumbreHumedad.aa-ET.resx">
+      <DependentUpon>IncertidumbreHumedad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IncertidumbreHumedad.es-MX.resx">
+      <DependentUpon>IncertidumbreHumedad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IncertidumbreHumedad.resx">
+      <DependentUpon>IncertidumbreHumedad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reporte.es-MX.resx">
+      <DependentUpon>Reporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte.resx">
+      <DependentUpon>Reporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte2.es-MX.resx">
+      <DependentUpon>Reporte2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte2.resx">
+      <DependentUpon>Reporte2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Selected.es-MX.resx">
+      <DependentUpon>Selected.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Selected.resx">
+      <DependentUpon>Selected.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowIncertidumbre.es-MX.resx">
+      <DependentUpon>ShowIncertidumbre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowIncertidumbre.resx">
+      <DependentUpon>ShowIncertidumbre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uniformidad.es-MX.resx">
+      <DependentUpon>uniformidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uniformidad.resx">
+      <DependentUpon>uniformidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uniformidadV1.es-MX.resx">
+      <DependentUpon>uniformidadV1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uniformidadV1.resx">
+      <DependentUpon>uniformidadV1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetApertura.xsc">
+      <DependentUpon>DataSetApertura.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetApertura.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetApertura.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetApertura.xss">
+      <DependentUpon>DataSetApertura.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ICONO Inolab %281%29.ico" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="System\Windows\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

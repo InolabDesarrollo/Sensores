@@ -1,0 +1,678 @@
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\ExcelMergeV7.exe.config
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\ExcelMergeV7.exe.manifest
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\ExcelMergeV7.application
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\ExcelMergeV7.exe
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\ExcelMergeV7.pdb
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\es-MX\ExcelMergeV7.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\aa-ET\ExcelMergeV7.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\netstandard.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.AppContext.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Collections.Concurrent.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Collections.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Collections.Specialized.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.ComponentModel.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Console.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Data.Common.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Diagnostics.Process.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Drawing.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Globalization.Calendars.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Globalization.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Globalization.Extensions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.IO.Compression.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.IO.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.IO.FileSystem.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.IO.Pipes.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Linq.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Linq.Expressions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Linq.Parallel.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Linq.Queryable.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Net.Http.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Net.NameResolution.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Net.Ping.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Net.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Net.Requests.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Net.Security.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Net.Sockets.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Net.WebSockets.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.ObjectModel.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Reflection.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Reflection.Extensions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Reflection.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Resources.Reader.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Resources.Writer.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Runtime.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Runtime.Extensions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Runtime.Handles.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Runtime.Numerics.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Security.Claims.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Security.Principal.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Security.SecureString.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Text.Encoding.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Threading.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Threading.Overlapped.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Threading.Tasks.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Threading.Thread.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Threading.Timer.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Xml.XDocument.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Xml.XPath.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\AutoUpdater.NET.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\SpreadsheetLight.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Buffers.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Drawing.Common.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.IO.Packaging.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Memory.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Text.Json.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.ValueTuple.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\EnvDTE.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\stdole.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\Microsoft.MSXML.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\AutoUpdater.NET.pdb
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\AutoUpdater.NET.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\SpreadsheetLight.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Buffers.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.IO.Packaging.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Memory.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Text.Json.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\System.ValueTuple.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.csprojAssemblyReference.cache
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.exe.config
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.Apertura.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.BigDGV.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.Start.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.Flagged.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.HumedadDGV.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.incertidumbre.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.IncertidumbreHumedad.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.Properties.Resources.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.Reporte.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.Reporte2.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.Selected.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.ShowIncertidumbre.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.uniformidad.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.uniformidadV1.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.BigDGV.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.Start.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.Flagged.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.HumedadDGV.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.incertidumbre.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.IncertidumbreHumedad.aa-ET.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.IncertidumbreHumedad.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.Reporte.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.Reporte2.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.Selected.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.ShowIncertidumbre.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.uniformidad.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.uniformidadV1.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.csproj.GenerateResource.cache
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.csproj.CoreCompileInputs.cache
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\es-MX\ExcelMergeV7.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\aa-ET\ExcelMergeV7.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.exe.manifest
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.application
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.csproj.CopyComplete
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.exe
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\V121\ExcelMergeV7\obj\Release\ExcelMergeV7.pdb
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\ExcelMergeV7.exe.config
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\ExcelMergeV7.exe.manifest
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\ExcelMergeV7.application
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\ExcelMergeV7.exe
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\ExcelMergeV7.pdb
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\es-MX\ExcelMergeV7.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\aa-ET\ExcelMergeV7.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\netstandard.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.AppContext.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Collections.Concurrent.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Collections.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Collections.Specialized.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.ComponentModel.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Console.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Data.Common.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Diagnostics.Process.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Drawing.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Globalization.Calendars.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Globalization.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Globalization.Extensions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.IO.Compression.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.IO.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.IO.FileSystem.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.IO.Pipes.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Linq.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Linq.Expressions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Linq.Parallel.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Linq.Queryable.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Net.Http.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Net.NameResolution.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Net.Ping.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Net.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Net.Requests.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Net.Security.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Net.Sockets.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Net.WebSockets.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.ObjectModel.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Reflection.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Reflection.Extensions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Reflection.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Resources.Reader.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Resources.Writer.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.Extensions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.Handles.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.Numerics.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Security.Claims.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Security.Principal.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Security.SecureString.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Text.Encoding.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Threading.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Threading.Overlapped.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Threading.Tasks.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Threading.Thread.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Threading.Timer.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Xml.XDocument.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Xml.XPath.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\AutoUpdater.NET.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\SpreadsheetLight.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Buffers.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Drawing.Common.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.IO.Packaging.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Memory.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Text.Json.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.ValueTuple.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\EnvDTE.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\stdole.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\Microsoft.MSXML.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\AutoUpdater.NET.pdb
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\AutoUpdater.NET.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\SpreadsheetLight.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Buffers.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.IO.Packaging.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Memory.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Text.Json.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\System.ValueTuple.xml
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.csprojAssemblyReference.cache
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.exe.config
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Apertura.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.BigDGV.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Start.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Flagged.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.HumedadDGV.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.incertidumbre.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.IncertidumbreHumedad.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Properties.Resources.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Reporte.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Reporte2.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Selected.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.ShowIncertidumbre.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.uniformidad.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.uniformidadV1.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.BigDGV.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Start.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Flagged.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.HumedadDGV.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.incertidumbre.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.IncertidumbreHumedad.aa-ET.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.IncertidumbreHumedad.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Reporte.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Reporte2.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Selected.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.ShowIncertidumbre.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.uniformidad.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.uniformidadV1.es-MX.resources
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.csproj.GenerateResource.cache
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.csproj.CoreCompileInputs.cache
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\es-MX\ExcelMergeV7.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\aa-ET\ExcelMergeV7.resources.dll
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.exe.manifest
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.application
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.csproj.CopyComplete
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.exe
+C:\Users\Luis INOLAB\Desktop\Proyectos Ivann\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.pdb
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\ExcelMergeV7.exe.config
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\ExcelMergeV7.exe.manifest
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\ExcelMergeV7.application
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\ExcelMergeV7.exe
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\ExcelMergeV7.pdb
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\es-MX\ExcelMergeV7.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\aa-ET\ExcelMergeV7.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\netstandard.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.AppContext.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Collections.Concurrent.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Collections.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Collections.Specialized.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.ComponentModel.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Console.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Data.Common.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Diagnostics.Process.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Drawing.Primitives.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Globalization.Calendars.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Globalization.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Globalization.Extensions.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.IO.Compression.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.IO.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.IO.FileSystem.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.IO.Pipes.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Linq.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Linq.Expressions.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Linq.Parallel.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Linq.Queryable.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Net.Http.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Net.NameResolution.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Net.Ping.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Net.Primitives.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Net.Requests.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Net.Security.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Net.Sockets.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Net.WebSockets.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.ObjectModel.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Reflection.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Reflection.Extensions.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Reflection.Primitives.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Resources.Reader.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Resources.Writer.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.Extensions.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.Handles.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.Numerics.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Security.Claims.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Security.Principal.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Security.SecureString.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Text.Encoding.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Threading.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Threading.Overlapped.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Threading.Tasks.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Threading.Thread.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Threading.Timer.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Xml.XDocument.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Xml.XPath.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\AutoUpdater.NET.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\SpreadsheetLight.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Buffers.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Drawing.Common.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.IO.Packaging.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Memory.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Text.Json.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.ValueTuple.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\EnvDTE.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\stdole.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\Microsoft.MSXML.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\AutoUpdater.NET.pdb
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\AutoUpdater.NET.xml
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\SpreadsheetLight.xml
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Buffers.xml
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.IO.Packaging.xml
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Memory.xml
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Text.Json.xml
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\System.ValueTuple.xml
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.csprojAssemblyReference.cache
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.exe.config
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Apertura.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.BigDGV.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Start.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Flagged.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.HumedadDGV.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.incertidumbre.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.IncertidumbreHumedad.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Properties.Resources.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Reporte.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Reporte2.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Selected.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.ShowIncertidumbre.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.uniformidad.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.uniformidadV1.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.BigDGV.es-MX.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Start.es-MX.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Flagged.es-MX.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.HumedadDGV.es-MX.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.incertidumbre.es-MX.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.IncertidumbreHumedad.aa-ET.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.IncertidumbreHumedad.es-MX.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Reporte.es-MX.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Reporte2.es-MX.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.Selected.es-MX.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.ShowIncertidumbre.es-MX.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.uniformidad.es-MX.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.uniformidadV1.es-MX.resources
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.csproj.GenerateResource.cache
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.csproj.CoreCompileInputs.cache
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\es-MX\ExcelMergeV7.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\aa-ET\ExcelMergeV7.resources.dll
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.exe.manifest
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.application
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.csproj.CopyComplete
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.exe
+C:\Users\Sandra INOLAB\Desktop\Proyectos INOLAB\Sensores - Inoreport\version arreglada\ExcelMergeV7\obj\Release\ExcelMergeV7.pdb
